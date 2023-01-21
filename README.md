@@ -1,6 +1,6 @@
 # Deep Learning - Vectorized vs Non-vectorized
 
-:star: Here is the [result](/vectorization.ipynb)
+:star: Here is the [Python code](/vectorization.ipynb)
 
 :point_right: `Vectorized` **394x** faster than `non-vectorized`
 
