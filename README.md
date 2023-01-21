@@ -2,7 +2,7 @@
 
 :star: Here is the [result](/vectorization.ipynb)
 
-:point_right: Vectorized approximately **394x** faster than non-vectorized.
+:point_right: `Vectorized` **394x** faster than `non-vectorized`
 
 ## Hardwares
 - **CPU:** Intel Core i3-12100F (8 CPUs), ~3.3GHz
