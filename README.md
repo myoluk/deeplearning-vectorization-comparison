@@ -2,9 +2,7 @@
 
 :star: Here is the [Python code](/vectorization.ipynb)
 
-:point_right: `Vectorized` **394x** faster than `non-vectorized`
-
----
+:astonished: `Vectorized` **394x** faster than `non-vectorized`
 
 :desktop_computer: _Tested with the below hardware_ :point_down:
 
