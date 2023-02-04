@@ -1,6 +1,6 @@
 # Deep Learning - Vectorized vs Non-vectorized Computing
 
-:astonished: **Vectorized** `394x` faster than **non-vectorized**
+:astonished: **Vectorized** computing `394x` faster than **non-vectorized**
 
 :star: Here is the [Jupyter Python code](/vectorization.ipynb)
 
