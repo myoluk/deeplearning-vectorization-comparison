@@ -1,4 +1,4 @@
-# Deep Learning - Vectorized vs Non-vectorized
+# Deep Learning - Vectorized vs Non-vectorized Computing
 
 :astonished: **Vectorized** `394x` faster than **non-vectorized**
 
