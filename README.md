@@ -4,7 +4,7 @@
 
 :star: Here is the [Jupyter Python code](/vectorization.ipynb)
 
-:desktop_computer: _Tested with the hardware_ below :point_down:
+:desktop_computer: _Tested with the hardware below_ :point_down:
 
 | Hardware |                    Specs                    |
 |   ---    |                     ---                     |
